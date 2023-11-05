@@ -3,15 +3,15 @@ import { createSlice } from "@reduxjs/toolkit";
 const initialState={
     currentAccount:{
         id: 1,
-		username: 'prototurkcom',
-		fullName: './prototurk',
+		username: 'reactcoder',
+		fullName: './reactcoder',
 		avatar: 'https://pbs.twimg.com/profile_images/1200814302820753410/AhAh3xlU_400x400.png'
     },
     accounts:[
         {
             id: 1,
-            username: 'prototurkcom',
-            fullName: './prototurk',
+            username: 'reactdeveloper',
+            fullName: './reactdeveloper',
             avatar: 'https://pbs.twimg.com/profile_images/1200814302820753410/AhAh3xlU_400x400.png'
         },
         {

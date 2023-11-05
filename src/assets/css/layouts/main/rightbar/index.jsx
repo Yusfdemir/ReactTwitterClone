@@ -2,6 +2,8 @@ import React from 'react'
 import Search from './search'
 import Premium from './premium'
 import Topics from './topics'
+import WhoFollow from './who-follow'
+import Footer from './footer'
 
 const Rightbar = () => {
   return (
@@ -9,6 +11,8 @@ const Rightbar = () => {
       <Search/>
       <Premium/>
       <Topics/>
+      <WhoFollow/>
+      <Footer/>
     </aside>
   )
 }
