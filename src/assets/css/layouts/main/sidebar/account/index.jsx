@@ -29,7 +29,7 @@ const Account = () => {
                 leaveFrom="transform opacity-100"
                 leaveTo="transform opacity-0"
             >
-                <Popover.Panel className="absolute py-3 bottom-[80px] w-[300px] overflow-hidden left-1/2 -translate-x-1/2 bg-black shadow-box rounded-2xl">
+                <Popover.Panel className="absolute py-3 bottom-[80px] w-[300px] overflow-hidden left-1/2 -translate-x-1/2 bg-[color:var(--background-primary)] shadow-box rounded-2xl">
                     {({close})=>(<More close={close}/>)}
                 </Popover.Panel>
             </Transition>
