@@ -1,4 +1,7 @@
-
+import { useState } from "react"
+import { posts as postData } from "../../../mock/posts"
+import Post from "../../../components/post"
+import { WVList } from "virtua"
 
 export default function ForYou() {
 
