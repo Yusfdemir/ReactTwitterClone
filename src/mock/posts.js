@@ -2,7 +2,7 @@ export const posts = [
 	{
 		id: '1708632465282150796',
 		type: 'poll',
-		content: `PROTOTURK'un paylaştığı videoları seviyor musunuz?
+		content: `Bu Kanalın'un paylaştığı videoları seviyor musunuz?
 Bu anket ders esnasında sorulmuştur.`,
 		poll: {
 			voted: false,
@@ -26,9 +26,9 @@ Bu anket ders esnasında sorulmuştur.`,
 			]
 		},
 		account: {
-			avatar: 'https://pbs.twimg.com/profile_images/1200814302820753410/AhAh3xlU_400x400.png',
-			username: 'prototurkcom',
-			fullName: './prototurk'
+			avatar: 'https://picsum.photos/400/400',
+			username: 'asiturkcom',
+			fullName: './asiturk'
 		},
 		stats: {
 			comments: 43535,
@@ -42,12 +42,12 @@ Bu anket ders esnasında sorulmuştur.`,
 		type: 'photo',
 		content: `Toplu günaydın, ben her sabah spora devam ama her gün post atmıyorum artık, max 4 günde bir atarım çünkü en fazla 4 foto paylaşılıyormuş 🤣`,
 		photos: [
-			'https://pbs.twimg.com/media/F7VBIvaW0AIZyiX?format=jpg&name=large'
+			'https://picsum.photos/400/400'
 		],
 		account: {
-			avatar: 'https://pbs.twimg.com/profile_images/1665642354009677824/LNZo7V8x_400x400.jpg',
-			username: 'tayfunerbilen',
-			fullName: 'Tayfun Erbilen'
+			avatar: 'https://picsum.photos/400/400',
+			username: './vefaabi',
+			fullName: 'Vefa Abi'
 		},
 		stats: {
 			comments: 43535,
@@ -61,11 +61,11 @@ Bu anket ders esnasında sorulmuştur.`,
 		type: 'photo',
 		content: `Imagination Land!`,
 		photos: [
-			'https://pbs.twimg.com/media/F7ZIK8KWgAAP8pH?format=jpg&name=900x900',
-			'https://pbs.twimg.com/media/F7VBIvZXEAAIpEM?format=jpg&name=large'
+			'https://picsum.photos/900/900',
+			'https://picsum.photos/200/300'
 		],
 		account: {
-			avatar: 'https://pbs.twimg.com/profile_images/1683325380441128960/yRsRRjGO_400x400.jpg',
+			avatar: 'https://picsum.photos/400/400.jpg',
 			username: 'elonmusk',
 			fullName: 'Elon Musk',
 			verified: true
@@ -131,10 +131,10 @@ This prompt is going viral- mimicking a creepy iPhone capture that looks insanel
 
 Prompt in ALT tag + more examples in thread:`,
 		photos: [
-			'https://pbs.twimg.com/media/F7aKxHhaAAAnHlS?format=jpg&name=large',
-			'https://pbs.twimg.com/media/F7VBIvaW0AAyXEr?format=jpg&name=large',
-			'https://pbs.twimg.com/media/F7VBIvaWAAAWUsx?format=jpg&name=large',
-			'https://pbs.twimg.com/media/F7VBIvaWAAAWUsx?format=jpg&name=large',
+			'https://picsum.photos/400/400.jpg',
+			'https://picsum.photos/400/400.jpg',
+			'https://picsum.photos/400/400.jpg',
+			'https://picsum.photos/400/400.jpg',
 		],
 		account: {
 			avatar: 'https://pbs.twimg.com/profile_images/1617700070710992896/pF3T_gMB_400x400.jpg',
